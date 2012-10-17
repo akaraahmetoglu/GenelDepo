@@ -1,0 +1,17 @@
+body{
+	font-family:Arial;
+}
+
+.deltaCrop_kesici{
+	color:000000;
+	font-weight:bold;
+}
+.deltaCrop_devami{
+	color:555555;
+	font-weight:bold;
+}
+.deltaCrop_devami_button{
+	text-decoration:none;
+	outline:none;
+	color:#999999;
+}
